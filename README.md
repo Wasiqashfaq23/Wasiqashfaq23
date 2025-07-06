@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wasiq</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="programmer gif" />
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 - 🔭 I’m currently working on **MERN Stack**
