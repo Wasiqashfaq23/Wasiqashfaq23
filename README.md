@@ -38,9 +38,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
 </a>  
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAZ0lEQVR4AWMYwkBICI/krCm45eQ/ftfCKbnp//9FuOTsfv3//98Fh+TB/0BwELtc8H8wiMMqeRUieRWbXPF/KCjGIvkYJvkYU27KfzjoxAi4jwjJ7/KY/keA1ahy3E2dSKCJm2FEAQAD1l2xzdeQ1AAAAABJRU5ErkJggg==" 
-  alt="vercel" width="45" height="45"/>
+  <img src="https://www.drupal.org/files/styles/grid-4-2x/public/vercel-logotype-dark.png?itok=77xK3WvQ"
+       alt="vercel" width="100" height="30" />
 </a>
+
 
 </p>
 
