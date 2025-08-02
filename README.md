@@ -38,8 +38,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
 </a>  
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45"/> 
+  <img src="https://1000logos.net/wp-content/uploads/2021/06/Vercel-logo.png" alt="vercel" width="90" height="30"/> 
 </a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wasiqashfaq23&show_icons=true&locale=en&layout=compact" alt="Wasiqashfaq23" /></p>
