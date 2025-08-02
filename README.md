@@ -37,8 +37,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
 </a>  
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://1000logos.net/wp-content/uploads/2021/06/Vercel-logo.png" alt="vercel" width="90" height="30"/> 
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAZ0lEQVR4AWMYwkBICI/krCm45eQ/ftfCKbnp//9FuOTsfv3//98Fh+TB/0BwELtc8H8wiMMqeRUieRWbXPF/KCjGIvkYJvkYU27KfzjoxAi4jwjJ7/KY/keA1ahy3E2dSKCJm2FEAQAD1l2xzdeQ1AAAAABJRU5ErkJggg==" 
+  alt="vercel" width="45" height="45"/>
 </a>
 
 </p>
