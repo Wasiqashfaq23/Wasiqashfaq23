@@ -9,6 +9,7 @@
 - 💬 Ask me about **HTML/CSS, JavaScript, Python, or C++**
 - ⚡ I love automating boring tasks and shipping things that actually work
 - 📫 Reach me at **[wasiqashfaq27@gmail.com](mailto:wasiqashfaq27@gmail.com)**
+- 🌐 Visit my portfolio at **[wasiqashfaq.live](https://wasiqashfaq.live)**
 
 <br/>
 
