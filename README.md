@@ -4,9 +4,9 @@
 
 <br/>
 
-- 🚀 Currently building full-stack apps with the **MERN Stack**
-- 🛠️ Comfortable with **MongoDB, Express.js, React, Node.js**
-- 💬 Ask me about **HTML/CSS, JavaScript, Python, or C++**
+- 🚀 Currently building full-stack apps with the **MERN Stack + Next.js**
+- 🛠️ Comfortable with **MongoDB, Express.js, React, Node.js, Next.js**
+- 💬 Ask me about **HTML/CSS, JavaScript, TypeScript, Python, or C++**
 - ⚡ I love automating boring tasks and shipping things that actually work
 - 📫 Reach me at **[wasiqashfaq27@gmail.com](mailto:wasiqashfaq27@gmail.com)**
 - 🌐 Visit my portfolio at **[wasiqashfaq.live](https://wasiqashfaq.live)**
